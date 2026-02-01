@@ -1,12 +1,16 @@
 // ALlowlist
 
 // xiaomi
-global.market.xiaomi.com
-
-us.find.api.micloud.xiaomi.net
 account.xiaomi.com
-find.api.micloud.xiaomi.net
-
-update.miui.com
-update.intl.miui.com
+api.account.xiaomi.com
+ruac.account.xiaomi.com
+sgpac.account.xiaomi.com
 api.io.mi.com
+i2.api.io.mi.com
+find.api.micloud.xiaomi.net
+in.find.api.micloud.xiaomi.net
+global.market.xiaomi.com
+ultimateota.d.miui.com
+update.intl.miui.com
+update.miui.com
+us.find.api.micloud.xiaomi.net
